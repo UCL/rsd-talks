@@ -450,6 +450,12 @@ Why you should be one
 * Write papers
 * Make code
 
+This talk
+---------
+
+* http://github-pages.ucl.ac.uk/rsd-talks/rsd/experiences-reveal.html#/
+* https://github.com/UCL/rsd-talks [CC-BY]
+
 Acknowledgements
 ----------------
 
