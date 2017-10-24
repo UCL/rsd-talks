@@ -43,6 +43,13 @@ Labware
 * Code not engineered for readability
 * Can't add new science
 
+Middleware
+----------
+
+* Generalise a part of the research problem
+* Publish at an eScience conference
+* Have no users in the research community
+
 HPCWare
 -------
 
