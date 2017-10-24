@@ -108,8 +108,11 @@ The movement
 Our story
 ---------
 
+* 2010: Software Sustainability Institute Founded
 * April 2012: Idea and name at SSI Collaborations Workshop
-* September 2012: UCL Group Founded
+* September 2012: UCL Group founded
+* 2013: UKRSE Assocation founded
+* 2013: Times Higher Education [article](https://www.timeshighereducation.com/news/save-your-work-give-software-engineers-a-career-track/2006431.article)
 * 2014: Manchester group
 * 2015: Southampton and Cambridge Groups
 * Jan 2016: EPSRC awards first Research Software Engineering Fellowships
@@ -119,9 +122,11 @@ Our story
 ---------
 
 * September 2016: First RSE conference, 202 attendees, 14 countries
+* RSE Germany and RSE Netherlands founded
 * 2017: Leicester, Imperial College groups.
 * September 2017: Second conference, 224 attendees, 12 countries
-* Formally incorporated as a charity
+* Late 2017: Formally incorporated as a charity
+* October 2017: Australia and New Zealand RSE founded
 * Jan 2018: Second RSE fellows appointed
 
 RSE Groups {.chapter-title}
@@ -325,6 +330,10 @@ Software Carpentry
 * This is clearly impossible
 * So we need *division of labour*
 * and enough training to work together
+
+## Unicorn Farming {.poster}
+
+![](unicorn-farms.jpg)
 
 Good, huh? {.chapter-title}
 ==========
