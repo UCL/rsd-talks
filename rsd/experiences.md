@@ -396,7 +396,7 @@ Software Carpentry
 * So we need *division of labour*
 * and enough training to work together
 
-## Unicorn Farming {.poster}
+## Unicorn Farming {.poster #unicorn}
 
 ![](assets/unicorn-farms.jpg)
 

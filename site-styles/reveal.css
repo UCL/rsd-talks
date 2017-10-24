@@ -103,3 +103,7 @@ img[src*="assets/twitter.png"] {
   display: none;
 }
 
+#unicorn img {
+  height: 100%;
+  width: auto;
+}
