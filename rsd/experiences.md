@@ -119,22 +119,27 @@ Our story
 * April 2012: Idea and name at SSI Collaborations Workshop
 * September 2012: UCL Group founded
 * 2013: UKRSE Assocation founded
-* 2013: Times Higher Education [article](https://www.timeshighereducation.com/news/save-your-work-give-software-engineers-a-career-track/2006431.article)
-* 2014: Manchester group
-* 2015: Southampton and Cambridge Groups
-* Jan 2016: EPSRC awards first Research Software Engineering Fellowships
-* 2016: Bristol, Sheffield Groups
+* 2013: Times Higher Education article [article](https://www.timeshighereducation.com/news/save-your-work-give-software-engineers-a-career-track/2006431.article)
 
 Our story
 ---------
 
+* 2014: Manchester group
+* 2015: Southampton and Cambridge Groups
+* Jan 2016: EPSRC awards first Research Software Engineering Fellowships
+* 2016: Bristol, Sheffield Groups
 * September 2016: First RSE conference, 202 attendees, 14 countries
+
+Our story
+---------
+
 * RSE Germany and RSE Netherlands founded
 * 2017: Leicester, Imperial College groups.
 * September 2017: Second conference, 224 attendees, 12 countries
-* Late 2017: Formally incorporated as a charity
+* Late 2017: UKRSE formally incorporated as a charity
+* Late 2017: Second round of UK RSE fellows appointed
 * October 2017: Australia and New Zealand RSE founded
-* Jan 2018: Second RSE fellows appointed
+
 
 RSE Groups {.chapter-title}
 ==========
@@ -157,7 +162,7 @@ Activities
 Domain
 ------
 
-* From HPC codes to simple scripts
+* From HPC codes to analysis scripts and infrastructure code
 * From theoretical physics to digital humanities
 
 UCL Model
@@ -340,7 +345,7 @@ Software Carpentry
 
 ## Unicorn Farming {.poster}
 
-![](unicorn-farms.jpg)
+![](assets/unicorn-farms.jpg)
 
 Good, huh? {.chapter-title}
 ==========
