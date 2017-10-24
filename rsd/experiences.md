@@ -43,6 +43,13 @@ Labware
 * Code not engineered for readability
 * Can't add new science
 
+ConsultantWare
+--------
+
+* Little understanding of the science
+* Overengineered
+* Unmaintainable by the research group
+
 Middleware
 ----------
 
@@ -60,13 +67,6 @@ HPCWare
       * Readability
       * Maintainability
       * Adaptability
-
-ConsultantWare
---------
-
-* Little understanding of the science
-* Overengineered
-* Unmaintainable by the research group
 
 Research Software Engineers {.chapter-title}
 ============================
