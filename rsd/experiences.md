@@ -287,6 +287,59 @@ Reliability unlocks science
 </div>
 <img src="assets/hemelb1.png" style="width:33%;float:right;">
 
+Good, huh? {.chapter-title}
+==========
+
+Lessons learned
+---------------
+
+Well, it hasn't always been pretty.
+
+I'll try to indicate some tips and tricks learned while
+creating a generalist science-as-a-service software group.
+
+Some of these we got right. Some are things I wish I'd
+known at the beginning.
+
+
+Sell performance, deliver reproducibility {#flymac .poster}
+-----------------------------------------
+
+![](assets/flying-machine.png)
+<h4>Sell performance</h4>
+<h4>Deliver reproducibility</h4>
+
+Use appropriate technology {#windvane .poster}
+--------------------------
+
+![](assets/windvane.png)
+<h4>Use appropriate technology</h4>
+
+Look beyond the usual {#ancient .poster}
+---------------------
+
+<h4>Look beyond the usual</h4>
+![](assets/ancient-tech.png)
+
+Make space to learn {#crafty .poster}
+-----------------------------
+
+<h4>Make space to learn</h4>
+![](assets/craftsperson-scholar.png)
+
+Organisational Judo {#judo .poster}
+-------------------
+
+<h4>Organisational</h4>
+<h4>Judo</h4>
+![](assets/org-judo.jpg)
+
+Computational Science as a Service {#it-crowd .poster}
+----------------------------------
+
+<h4>Computational Science as a Service</h4>
+![](https://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif)
+
 RSEs and Teaching {.chapter-title}
 =====================================================
 
@@ -346,59 +399,6 @@ Software Carpentry
 ## Unicorn Farming {.poster}
 
 ![](assets/unicorn-farms.jpg)
-
-Good, huh? {.chapter-title}
-==========
-
-Lessons learned
----------------
-
-Well, it hasn't always been pretty.
-
-I'll try to indicate some tips and tricks learned while
-creating a generalist science-as-a-service software group.
-
-Some of these we got right. Some are things I wish I'd
-known at the beginning.
-
-
-Sell performance, deliver reproducibility {#flymac .poster}
------------------------------------------
-
-![](assets/flying-machine.png)
-<h4>Sell performance</h4>
-<h4>Deliver reproducibility</h4>
-
-Use appropriate technology {#windvane .poster}
---------------------------
-
-![](assets/windvane.png)
-<h4>Use appropriate technology</h4>
-
-Look beyond the usual {#ancient .poster}
----------------------
-
-<h4>Look beyond the usual</h4>
-![](assets/ancient-tech.png)
-
-Make space to learn {#crafty .poster}
------------------------------
-
-<h4>Make space to learn</h4>
-![](assets/craftsperson-scholar.png)
-
-Organisational Judo {#judo .poster}
--------------------
-
-<h4>Organisational</h4>
-<h4>Judo</h4>
-![](assets/org-judo.jpg)
-
-Computational Science as a Service {#it-crowd .poster}
-----------------------------------
-
-<h4>Computational Science as a Service</h4>
-![](https://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif)
 
 Multi- professionalism {.chapter-title}
 ====================
