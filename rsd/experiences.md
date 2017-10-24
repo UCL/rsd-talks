@@ -465,7 +465,7 @@ Why you should be one
 This talk
 ---------
 
-* http://github-pages.ucl.ac.uk/rsd-talks/rsd/experiences-reveal.html#/
+* http://bit.ly/rse-talk-17
 * https://github.com/UCL/rsd-talks [CC-BY]
 
 Acknowledgements
